@@ -20,7 +20,7 @@ https://geopy.readthedocs.io/en/stable/#usage-with-pandas
 https://medium.com/@msalmon00/analysis-of-web-scraped-job-data-to-predict-relative-salaries-c7237954184a
 https://towardsdatascience.com/geocode-with-python-161ec1e62b89
 
-# The following software is required for this tutorial:
+# The following software is required if you want to replicate this tutorial:
 1. Python via Google Colab (free account available)
 2. DataRobot has a trial version available at https://www.datarobot.com/trial/
 3. Tableau has a trial version available at https://www.tableau.com/trial/tableau-software
