@@ -3,7 +3,7 @@
 
 # This tutorial was created to demonstrate the skills and concepts covered in Concordia's Business Analytics program.  
 
-# The research question we have posed is "What business analyst jobs are available in the Wisconsin/Michigan and what is the salary by location?"
+# The research question we posed is "What business analyst jobs are available in the Wisconsin/Michigan and what is the salary by location?"
 
 # The OSEMIn methodology will be used with the following software:
 Step 1 - OBTAIN (Python)
