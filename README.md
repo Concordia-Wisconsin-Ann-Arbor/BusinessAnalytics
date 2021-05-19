@@ -6,11 +6,11 @@
 # The research question we posed is "What business analyst jobs are available in the Wisconsin/Michigan and what is the salary by location?"
 
 # The OSEMIn methodology will be used with the following software:
-Step 1 - OBTAIN (Python)
-Step 2 - SCRUB (Python)
-Step 3 - EXPLORE (Python)
-Step 4 - MODEL (DataRobot)
-Step 5 - INTERPRET (Tableau)
+Step 1 - OBTAIN (Python)<br>
+Step 2 - SCRUB (Python)<br>
+Step 3 - EXPLORE (Python)<br>
+Step 4 - MODEL (DataRobot)<br>
+Step 5 - INTERPRET (Tableau)<br>
 
 # This tutorial was created using code from the following projects:
 https://medium.com/@msalmon00/web-scraping-job-postings-from-indeed-96bd588dcb4b
