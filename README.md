@@ -25,4 +25,4 @@ https://towardsdatascience.com/geocode-with-python-161ec1e62b89
 2. DataRobot has a trial version available at https://www.datarobot.com/trial/
 3. Tableau has a trial version available at https://www.tableau.com/trial/tableau-software
 
-# Note: Full versions of these software packages are provided for free to Concordia students in the Business Analytics program.
+Note: Full versions of these software packages are provided for free to Concordia students in the Business Analytics program.
